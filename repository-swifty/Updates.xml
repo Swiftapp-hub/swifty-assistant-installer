@@ -1,0 +1,55 @@
+<Updates>
+ <ApplicationName>{AnyApplication}</ApplicationName>
+ <ApplicationVersion>1.0.0</ApplicationVersion>
+ <Checksum>true</Checksum>
+ <PackageUpdate>
+  <Name>fr.swiftapp.plugins.ControlSettings</Name>
+  <DisplayName>Control Settings</DisplayName>
+  <Description>A plugins to manage the system parameters</Description>
+  <Description xml:lang="fr_fr">Un plugins pour gerer les parametre systeme</Description>
+  <Version>1.0.3</Version>
+  <ReleaseDate>2021-10-22</ReleaseDate>
+  <Default>true</Default>
+  <Script>installscript.qs</Script>
+  <UpdateFile UncompressedSize="55600" OS="Any" CompressedSize="12733"/>
+  <DownloadableArchives>content.7z</DownloadableArchives>
+  <Licenses>
+   <License name="GNU General Public License version 3.0" file="gpl-3.0.txt"/>
+  </Licenses>
+  <SHA1>b33fed0e000e3ecebc886dbb38b5b108c4c8b8bb</SHA1>
+ </PackageUpdate>
+ <PackageUpdate>
+  <Name>fr.swiftapp.plugins.HelloWorld</Name>
+  <DisplayName>Hello World</DisplayName>
+  <Description>A plugins for basic commands</Description>
+  <Description xml:lang="fr_fr">Un plugin pour les commandes de base</Description>
+  <Version>1.0.2</Version>
+  <ReleaseDate>2021-10-22</ReleaseDate>
+  <Default>true</Default>
+  <Script>installscript.qs</Script>
+  <UpdateFile UncompressedSize="59784" OS="Any" CompressedSize="18103"/>
+  <DownloadableArchives>content.7z</DownloadableArchives>
+  <Licenses>
+   <License name="GNU General Public License version 3.0" file="gpl-3.0.txt"/>
+  </Licenses>
+  <SHA1>887484baae12f35390f3ea3abb860bb5307d1486</SHA1>
+ </PackageUpdate>
+ <PackageUpdate>
+  <Name>fr.swiftapp.SwiftyAssistant</Name>
+  <DisplayName>Swifty Assistant</DisplayName>
+  <Description>The personnal assistant Swifty.</Description>
+  <Description xml:lang="fr_fr">L'assistant personnel Swifty.</Description>
+  <Version>1.0.0-alpha2</Version>
+  <ReleaseDate>2021-10-22</ReleaseDate>
+  <Default>true</Default>
+  <Script>installscript.qs</Script>
+  <UpdateFile UncompressedSize="284309175" OS="Any" CompressedSize="77220051"/>
+  <DownloadableArchives>lib.7z,libexec.7z,plugins.7z,qml.7z,resources.7z,translations.7z,content.7z</DownloadableArchives>
+  <Licenses>
+   <License name="GNU General Public License version 3.0" file="gpl-3.0.txt"/>
+  </Licenses>
+  <SHA1>5cb863be5a45eb44a1274408fc8134f3e1b5883f</SHA1>
+ </PackageUpdate>
+ <SHA1>3c1759d039b48c6a9677ab24c2a5c62d7692e8e2</SHA1>
+ <MetadataName>2021-10-22-2202_meta.7z</MetadataName>
+</Updates>
