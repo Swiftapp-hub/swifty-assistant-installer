@@ -11,12 +11,12 @@
   <ReleaseDate>2021-11-03</ReleaseDate>
   <Default>true</Default>
   <Script>installscript.qs</Script>
-  <UpdateFile CompressedSize="13195" OS="Any" UncompressedSize="55656"/>
+  <UpdateFile UncompressedSize="55656" CompressedSize="13195" OS="Any"/>
   <DownloadableArchives>content.7z</DownloadableArchives>
   <Licenses>
    <License file="gpl-3.0.txt" name="GNU General Public License version 3.0"/>
   </Licenses>
-  <SHA1>61ca15fbb4da0768be9efacc033c29c296a0e4df</SHA1>
+  <SHA1>86e79eed20b7db07a9ed6d15c5be54e61ca20990</SHA1>
  </PackageUpdate>
  <PackageUpdate>
   <Name>fr.swiftapp.plugins.HelloWorld</Name>
@@ -27,12 +27,12 @@
   <ReleaseDate>2021-11-03</ReleaseDate>
   <Default>true</Default>
   <Script>installscript.qs</Script>
-  <UpdateFile CompressedSize="18688" OS="Any" UncompressedSize="59784"/>
+  <UpdateFile UncompressedSize="59784" CompressedSize="18688" OS="Any"/>
   <DownloadableArchives>content.7z</DownloadableArchives>
   <Licenses>
    <License file="gpl-3.0.txt" name="GNU General Public License version 3.0"/>
   </Licenses>
-  <SHA1>fd451070904cb0ac1e05c8c57560d6896f25d013</SHA1>
+  <SHA1>086efe29b5b7aa3cd373bfc708dd50fdcc7437c7</SHA1>
  </PackageUpdate>
  <PackageUpdate>
   <Name>fr.swiftapp.SwiftyAssistant</Name>
@@ -43,13 +43,13 @@
   <ReleaseDate>2021-11-04</ReleaseDate>
   <Default>true</Default>
   <Script>installscript.qs</Script>
-  <UpdateFile CompressedSize="77222558" OS="Any" UncompressedSize="284313927"/>
+  <UpdateFile UncompressedSize="284313927" CompressedSize="77221812" OS="Any"/>
   <DownloadableArchives>lib.7z,libexec.7z,plugins.7z,qml.7z,resources.7z,translations.7z,content.7z</DownloadableArchives>
   <Licenses>
    <License file="gpl-3.0.txt" name="GNU General Public License version 3.0"/>
   </Licenses>
-  <SHA1>0a6643f7797abf9aff076a356b0a30412e2fa13b</SHA1>
+  <SHA1>72447363780358a07b595dedf9b4144d46a05d9e</SHA1>
  </PackageUpdate>
- <SHA1>890722cc4b529fb140f53d02532c58fb6e5b79e6</SHA1>
- <MetadataName>2021-11-04-1752_meta.7z</MetadataName>
+ <SHA1>aa146d61f66cac6edf414b472484e999efc945df</SHA1>
+ <MetadataName>2021-11-04-1807_meta.7z</MetadataName>
 </Updates>
